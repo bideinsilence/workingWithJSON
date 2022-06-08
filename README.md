@@ -2,7 +2,7 @@
 MDN Web Docs JSON exercise
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 
-**See this live:** 
+**See this live:** https://bideinsilence.github.io/workingWithJSON/
 
 
 ## How it's made:
