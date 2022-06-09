@@ -1,6 +1,5 @@
 # Working with JSON
-MDN Web Docs JSON exercise
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+MDN Web Docs: [JSON exercise](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 **See this live:** https://bideinsilence.github.io/workingWithJSON/
 
